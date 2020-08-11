@@ -6,5 +6,8 @@ console.log('b =', b)//return ERROR
 let b = 2
 console.log('b =', b)
 
-//JS adiciona as varaiaveis à memoria antes 
-//mesmo de executar o codigo
+/*JS declara variaveis antes de executar o codigo, ou seja,
+vc pode usar uma variavel e depois declarar ela. 
+Apenas declara, NÃO INICIALIZA!
+
+Funçõs nomedas tambem podem ser acessadas antes de serem declaradas.*/
